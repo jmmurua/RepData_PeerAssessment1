@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assignment 1"
+title: "Reproducible Research: Peer Assessment 1"
 author: "José Murúa"
 date: "31-12-2020"
 output: 
